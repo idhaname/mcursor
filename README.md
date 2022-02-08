@@ -8,7 +8,7 @@
 
 经过一段时间的使用，我决定将这款光标分享出来。下载请移步[GitHub Releases](https://github.com/idhaname/mcursor/releases/)。如果您位于中国大陆，我们也有[Gitee镜像](https://gitee.com/idhaname/mcursor/)供您使用。
 
-光标所使用的材质来源于Minecraft，该文件（或其一部分）的著作权属于Mojang Studios。
+光标所使用的材质来源于Minecraft，该文件（或其一部分）的著作权属于Mojang Studios。转载请标明GitHub存储库地址。
 
 **非 MINECRAFT 官方产品。未经 MOJANG 批准，也不与 MOJANG 关联。**
 
